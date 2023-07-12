@@ -3,17 +3,17 @@ export const projects = [
     title: "Daja Limavi",
     subtitle: "jquery/JavaScript/Bulma/Web API",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "A simple to use music app that finds artists when a mixture of genre's are selected.",
     image: "./dajalimavi.gif",
     link: "https://matthewmontiel.github.io/daja-limavi/",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "On The Shelf",
+    subtitle: "mysql2, sequelize, bulma, handlebars, unique id, bcrypt",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+      "A application that allows users to create a personal database of their board game collections.",
+    image: "./ontheshelf.gif",
+    link: "https://ontheshelf.herokuapp.com/",
   },
   {
     title: "DevChat",
@@ -21,7 +21,7 @@ export const projects = [
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://matthewmontiel.github.io/hows-the-weather/",
   },
   {
     title: "Epic Todo App",
@@ -29,7 +29,7 @@ export const projects = [
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+    link: "",
   },
 ];
 
