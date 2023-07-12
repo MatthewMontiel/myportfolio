@@ -1,11 +1,11 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Daja Limavi",
+    subtitle: "jquery/JavaScript/Bulma/Web API",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+    image: "./dajalimavi.gif",
+    link: "https://matthewmontiel.github.io/daja-limavi/",
   },
   {
     title: "React Tracks",
