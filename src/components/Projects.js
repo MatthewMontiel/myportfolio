@@ -12,9 +12,7 @@ export default function Projects() {
             Projects I've Worked On
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo
-            facilis repellat ab cupiditate alias vero aliquid obcaecati quisquam
-            fuga dolore.
+            Here are some of the biggest projects I worked on during my time in coding boot camp!
           </p>
         </div>
         <div className="flex flex-wrap -m-4">
