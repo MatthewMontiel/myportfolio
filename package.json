@@ -1,7 +1,7 @@
 {
   "name": "my-portfolio",
   "version": "0.1.0",
-  "homepage": "https://github.com/MatthewMontiel/myportfolio",
+  "homepage": "https://matthewmontiel.github.io/myportfolio",
   "private": false,
   "dependencies": {
     "@craco/craco": "^5.9.0",
