@@ -24,26 +24,26 @@ export const projects = [
     link: "https://matthewmontiel.github.io/hows-the-weather/",
   },
   {
-    title: "Epic Todo App",
+    title: "Note Taker",
     subtitle: "React Hooks",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "",
     image: "./project-4.gif",
     link: "",
   },
   {
-    title: "Epic Todo App",
+    title: "README Generator",
     subtitle: "React Hooks",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "",
     image: "./project-4.gif",
     link: "",
   },
   {
-    title: "Epic Todo App",
+    title: "Employee Tracker",
     subtitle: "React Hooks",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "",
     image: "./project-4.gif",
     link: "",
   },
