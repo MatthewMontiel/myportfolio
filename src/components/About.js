@@ -10,12 +10,12 @@ export default function About() {
             <br className="hidden lg:inline-block" />I like to collaborate and listen. Let's Code!!
           </h1>
           <p className="mb-8 leading-relaxed">
-            I’m Matthew Montiel. I’m a West Texas native, growing up in Lubbock.
+            I’m Matt Montiel. I’m a West Texas native, growing up in Lubbock, Texas.
             I have a degree in digital film making, and for the past five years, I have taught computer programming and touch data at a small, rural school in the Lubbock area. 
             I am also the school’s yearbook advisor and I run the high school FBLA program. 
             I am happily married to my wife of 7 years, Tonya. We also have an energetic 6 year old son who keeps us on our toes and one more kiddo on the way. 
             In my free time I enjoy doing photography and graphic design. 
-            At the moment, I am working towards a Computer Programming certification through the University of Texas. 
+            At the moment, I am working towards a MERN Stack certification through the University of Texas. 
             My goal is to gain a better understanding of programming and to make upward movement in my career.
           </p>
           <div className="flex justify-center">

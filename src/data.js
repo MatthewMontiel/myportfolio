@@ -16,11 +16,11 @@ export const projects = [
     link: "https://ontheshelf.herokuapp.com/",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "How's the Weather",
+    subtitle: "JavaScript, Bulma",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
+      "A simple weather app that uses an api to populate data for the given location.",
+    image: "./howstheweather.gif",
     link: "https://matthewmontiel.github.io/hows-the-weather/",
   },
   {
@@ -31,22 +31,21 @@ export const projects = [
     image: "./project-4.gif",
     link: "",
   },
-];
-
-export const testimonials = [
   {
-    quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/1.jpg",
-    name: "Jesse Hicks",
-    company: "Zoozle",
+    title: "Epic Todo App",
+    subtitle: "React Hooks",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+    image: "./project-4.gif",
+    link: "",
   },
   {
-    quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/94.jpg",
-    name: "Ruben Alvarez",
-    company: "Dooble.io",
+    title: "Epic Todo App",
+    subtitle: "React Hooks",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+    image: "./project-4.gif",
+    link: "",
   },
 ];
 
